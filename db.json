@@ -1,0 +1,14 @@
+{
+  "persona":[
+    {
+      "name":"mothman",
+      "arcana":"hermit",
+      "sprite":"https://www.giantbomb.com/a/uploads/scale_small/3/31838/1666340-mothman.png"
+    },
+    {
+      "name":"jack frost",
+      "arcana":"magician",
+      "sprite":"https://www.giantbomb.com/a/uploads/square_medium/1/12482/887600-jack.jpg"
+    }
+  ]
+}
